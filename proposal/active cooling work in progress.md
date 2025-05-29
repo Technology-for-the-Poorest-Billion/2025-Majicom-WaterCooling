@@ -29,3 +29,7 @@ Precise tasks
 - make presentation
 - choose products to purchase before the system closes
 - split the tasks between the 3 of us
+
+CFD Simulations
+- aimed to support numerical python solutions already been trialled
+- will confirm results are accurate to simulated conditions

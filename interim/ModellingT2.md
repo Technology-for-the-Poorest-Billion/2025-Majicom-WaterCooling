@@ -22,7 +22,29 @@ The aim of the model is to identify the temperature drop in the body of water as
 
 Keeping variables such as tank / kiosk geometry controlled, and making a series of assumptions to simplify parts of the analysis. 
 
-The logic of the model will work as such:
+### Transport Properties of moist air
+
+In order to be able to accurately model the airflow. It is important to be able to determine the transport properties of air.
+
+Inputs:
+- Temperature
+- Pressure
+- Humidity
+
+Outputs:
+
+- Saturation Pressure
+- Vapour partial pressure
+- dynamic / kinematic viscosity
+- thermal conductivity
+- density / specific volume
+
+Investigating how to determine these properties, as well as a review of IB thermofluids content lead me to https://www.scribd.com/document/628245606/Qpedia-Nov08-Estimating-the-Effect-of-Moist-Air-on-Natural-Convection-Heat-Transfer
+Which breaks down numerical solutions to determine critical transport properties of humid air.
+
+Further investigation revealed that these features had already been built into python by http://www.coolprop.org/
+
+
 
 ### Air Speed Calculation
 

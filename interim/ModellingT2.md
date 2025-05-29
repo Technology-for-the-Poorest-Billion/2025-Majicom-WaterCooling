@@ -112,6 +112,7 @@ $Sh = 0.0366Re_L^{0.8}Sc^{1/3}$ For turbulent flow
 
 $k_GPSc^{0.56}/{G_m} = 0.281(Re_D)^{-0.4}$
 
+On further review **this is not applicable** it is for flow **normal to the axis**
 
 https://studylib.net/doc/7272115/4-convective-mass-transfer---chemical-engineering-learning
 

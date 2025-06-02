@@ -22,7 +22,29 @@ The aim of the model is to identify the temperature drop in the body of water as
 
 Keeping variables such as tank / kiosk geometry controlled, and making a series of assumptions to simplify parts of the analysis. 
 
-The logic of the model will work as such:
+### Transport Properties of moist air
+
+In order to be able to accurately model the airflow. It is important to be able to determine the transport properties of air.
+
+Inputs:
+- Temperature
+- Pressure
+- Humidity
+
+Outputs:
+
+- Saturation Pressure
+- Vapour partial pressure
+- dynamic / kinematic viscosity
+- thermal conductivity
+- density / specific volume
+
+Investigating how to determine these properties, as well as a review of IB thermofluids content lead me to https://www.scribd.com/document/628245606/Qpedia-Nov08-Estimating-the-Effect-of-Moist-Air-on-Natural-Convection-Heat-Transfer
+Which breaks down numerical solutions to determine critical transport properties of humid air.
+
+Further investigation revealed that these features had already been built into python by http://www.coolprop.org/
+
+
 
 ### Air Speed Calculation
 
@@ -82,8 +104,15 @@ Given that none of these accurately model the system we are looking at, a decisi
 
 The other option is to consider the inner cylinder as a flat plate. Typically this is only possible for slender cylinders, where edge effects caused by deflection of air over the flat face over the cylinder is negligible. In these scenarios a boundary layer is able to develop as on a flat plate. Given that there is negiglbe variation radially, and the system is axisymmetric, it can be considered as a flat plate. In our scenario, the aspect ratio of our tank is likely outside of the range where we can make these assumptions. However, we are arguing that the presence of the outer kiosk will act as a sheath, counteracting any radial deflection and meaning that the flow can very approximately be modelled used a flat plate analogy. Given that this is the case, the following empirical relationship can be said to apply 
 
-$Sh = 0.0664 Re_L^(1/2)Sc^(1/3)$
+$Sh = 0.0664 Re_L^{1/2}Sc{1/3}$ For laminar flow
 
+$Sh = 0.0366Re_L^{0.8}Sc^{1/3}$ For turbulent flow
+
+**Alternatively** Beddingford & Drew (FIND SOURCE from https://studylib.net/doc/7272115/4-convective-mass-transfer---chemical-engineering-learning) found a correlation for axial flow over a cylinder as being modelled as approximately 
+
+$k_GPSc^{0.56}/{G_m} = 0.281(Re_D)^{-0.4}$
+
+On further review **this is not applicable** it is for flow **normal to the axis**
 
 https://studylib.net/doc/7272115/4-convective-mass-transfer---chemical-engineering-learning
 

@@ -1,9 +1,6 @@
 # Conclusions 
 
-The final conclusions of our investigation will be presented here.
-
-Having investigated different cooling options the reuslts can be best presented in a table
-
+The final conclusions of our investigation can be seen below.
 
 ## Analysis results
 
@@ -42,6 +39,7 @@ This option would consist of a heat exchanger between mains water and dispensed 
 
 This is an approach used often in commercial cold water dispenser. This would include fitting a secondary smaller water tank,
 which would be cooled constantly with a cyclic cooler. This would be the most energy efficient option, however
-also the most complex to implement. This option would be the best one if the power limitation prove to be
-impossible to overcome. 
+also the most complex to implement. This option would be the best one if the power limitation prove to be impossible to overcome. 
+
+In this case we recommend to purchase a commercial cold water dispenser to reverse engineer the solutions used there. 
 

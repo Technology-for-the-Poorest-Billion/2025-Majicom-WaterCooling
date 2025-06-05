@@ -43,3 +43,8 @@ also the most complex to implement. This option would be the best one if the pow
 
 In this case we recommend to purchase a commercial cold water dispenser to reverse engineer the solutions used there. 
 
+### Solidworks 2024 Validation
+
+To further validate the numerical analysos, solidworks simulations were conducted to validate heat flow power requirements to maintain temperature.
+![PeltierTop24Cooling](https://github.com/user-attachments/assets/9d23ece7-136b-449f-b6f5-6b737a1007f3)
+

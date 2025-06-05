@@ -17,3 +17,4 @@ Convenction Study
 Solidworks 2024 has issues combining convection of fluids with heat transfer of materials additionally. Currently primary objective here is try and import the heat data from the static study and then run a convection simulation based off of that data.
 However, the overall steady state heat position that the tank will be aiming to achieve (regardless of gravity) will be that predicted in the static simulation, so should this not work data can still be gathered (though it should be noted that the data may be slightly inaccurate (unknown if over or under-esitmate)
 
+![PeltierTop24Cooling](https://github.com/user-attachments/assets/ba0c682e-e84a-497d-86a9-a85c0aa002a2)

@@ -12,3 +12,8 @@ Mesh Dependancy Study
 Initial Results
 * For a tank with top plate acting as a simulated peltier cooler having a set 24C condition, the net thermal condition (minus convection) looked like the below
   * net heat flux for this varied between 15 and 60 W, depending on if RMS (root mean squared) or average values of heat flux out were taken across the whole outer shell
+
+Convenction Study
+Solidworks 2024 has issues combining convection of fluids with heat transfer of materials additionally. Currently primary objective here is try and import the heat data from the static study and then run a convection simulation based off of that data.
+However, the overall steady state heat position that the tank will be aiming to achieve (regardless of gravity) will be that predicted in the static simulation, so should this not work data can still be gathered (though it should be noted that the data may be slightly inaccurate (unknown if over or under-esitmate)
+

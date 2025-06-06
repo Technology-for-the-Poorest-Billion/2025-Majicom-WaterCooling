@@ -1,9 +1,20 @@
 # Water cooling using a Peltier cell - proof of cencept
 
 The aim of this experiment is to detemrine the viability of using a peltier cell to cool water on demand.
-in ordeer ot do this it was encessary to find the effectiveness of teh Peltier cell under realistic conditions
 
+In order to do this it was encessary to find the effectiveness of teh Peltier cell under realistic conditions. So far no sources were found that would state exactly that, which would be citation-worthy.
+Firstly an attempt was made to model the syste and this can be seen below. 
 
+# Experimental setup and modelling
+The experimental setup can seen above. The water was pumped from one tank to the other with a PC cooling pump. Then it passed through a heat exchanger that was attached to a Peltier cell and a heat sink after which it was dispensed in the second tank. The temperature of the water in the first tank and the temperature of the water at the entry to the second tank was measured. The second tank was placed on a scale to measure the mass flow to the system. Together, these measurements allow to calculate how much heat was taken out of the water. Additionally, the power input to all the devoces was measured. This allows to calculate coefficient of performance of this system. This is the value needed to asses whether Peltier cooling is a viable option.
+
+The experimetal setup is similar to what could be expected in the kiosk but scaled down. Instead of 5 degree drop only 1 degree was expected, but with similar mass flow to the kiosk. This would result in similar water-Peltier heat transfer properties which are important for Peltier cell performance.
+
+# Performance predictions
+
+Put Peltier characteristics here
+
+There are several parts of the system that can be modelled. Unofrtunately, most of them lack clear specifications and thorough data to base the predictions on. The basic model would aim to, based on the heat transfer properties and current in the cell, determine the temperature difference over the Peltier cell and hence its effectiveness. This analysis is possible to do, but difficult without knowing the exact properties opf the cold and hot sinks. 
 
 
 The experiment conducted encountered several unexpected obstacles. 

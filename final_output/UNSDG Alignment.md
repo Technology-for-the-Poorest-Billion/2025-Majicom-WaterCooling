@@ -1,5 +1,6 @@
 ### UN Sustainable Development Goals ###
 https://www.un.org/sustainabledevelopment/sustainable-development-goals/
+
 The UN's Sustainable Development Goals outline good practises for implementing new technologies in developing countries. Out of the 17 goals, the ones that we felt were relevant to our project were:
 
 3) Good Health and Well-Being: The more cooling that we could create, the more that users might be motivated to be hydrated, which has obvious health benefits. We did however have to consider that cooler isn't always better, through questionnaires we knew that a range of users had different favourite drinking temperatures.

@@ -5,12 +5,12 @@ Large part of our project includes brainstorming and as such will require large 
 
 - Jakub - strengths: heat transfer and thermodynamics
 - Oscar - 3D5 water engineering module, Very limited electrical expertise, 
-- Jamie
+- Jamie - Some design and electrical experience, limited coding ability
 
 These lead to the following intial task distribution:
 - Jakub - feasibilty of Peltier modules and proof of concept of spectrally selective materials
 - Oscar
-- Jamie
+- Jamie - optimal tank sizing, importance of insulation, investigation of use of tap water in cooling
 
 To be filled: Budgeting, ease of access in the developing world, limit on heat transfer, CAD design and visualisation
 
@@ -35,4 +35,4 @@ proposal/assets/GanttChart.png
 
 
 
-## Contengency plans
+## Contingency plans

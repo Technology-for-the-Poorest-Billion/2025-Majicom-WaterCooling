@@ -14,4 +14,5 @@ https://www.un.org/sustainabledevelopment/sustainable-development-goals/
 
 ### UNICEF principles for Digital Development ###
 https://digitalprinciples.org
+
 Although our work was not digital, we needed to understand the interface between the kiosk and user. We learnt that kiosks similar to Majicoms' would normally have a vendor to dispense the water / good for the user. Majicom had only the screen, which meant we needed to consider the extra time taken to figure out the interface in rural areas of Africa compared to in the UK, which impacts queueing time and consequently dispensing rate.

@@ -20,4 +20,12 @@ Majicom implemented a slightly different laissez-faire leadership style encourag
 
 **Team management**
 
-During the early stages, the team emphasized open communication and mutual support. As the project progressed, management adapted to become more structured in response to increasing complexity, particularly in the specification and validation phases.
+The team strategy evolved throughout the project to meet the increasing demands of key deliverables, beginning with a strong collaborative effort in preparing the initial group presentation. This early stage focused on aligning everyone’s understanding of the project scope and brainstorming creative approaches. 
+
+For the initial project proposal, slides covering technical content,  and presenting were divided evenly, allowing each member to contribute while gaining insight into all aspects of the project.
+
+For the interim presentation, the team refined its strategy. With clearer task allocations emerging, members focused more on their technical areas while still contributing to joint outputs. Regular meetings ensured continuity and cohesion, with feedback loops to integrate individual work into a unified message. This period marked a shift towards more autonomous work, balanced by team review and collective editing.
+
+In preparation for the final presentation and group report, collaboration intensified. Each member contributed to their specialised section, while joint sessions were held to polish and align the final outputs. Visuals, data interpretation, and conclusions were refined collaboratively to ensure clarity and coherence.
+
+The individual report phase saw a transition to independent work, though team members continued informal peer support, discussing findings and approaches. This blended strategy of shared responsibility and individual accountability helped maintain a high standard throughout the project.

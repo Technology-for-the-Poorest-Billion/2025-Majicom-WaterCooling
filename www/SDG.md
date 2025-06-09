@@ -1,5 +1,3 @@
-### UN Sustainable Development Goals
-
 https://www.un.org/sustainabledevelopment/sustainable-development-goals/
 
 The UN's Sustainable Development Goals outline good practises for implementing new technologies in developing countries. Out of the 17 goals, the ones that we felt were relevant to our project were:

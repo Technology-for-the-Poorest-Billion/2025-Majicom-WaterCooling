@@ -1,9 +1,6 @@
 ---
 title: About Our Project
 ---
-
-# Chilled Water for Majicom Kiosks
-
 ## Introduction
 
 This story starts with **Majicom**, a company that provides purified drinking water kiosks in Tanzania that run on low amounts of power sourced from solar panels. Majicom is a not-for-profit organisation aiming to create a cheaper and more eco-friendly source of drinking water in urban areas.
@@ -16,8 +13,8 @@ Chilled water has been shown—through user surveys—to be a desirable feature,
 
 When it comes to water cooling methods, we identified two main approaches:
 
-- **Active cooling** – using a heat pump (like the refrigerant cycle used in fridges).
-- **Passive cooling** – using **evaporative cooling**, where water absorbs heat as it evaporates into surrounding air.
+- **Active cooling** – using some sort of heat pump, (like the refrigerant cycle used in fridges).
+- **Passive cooling** – using evaporative cooling, where water absorbs heat as it evaporates into surrounding air.
 
 With a large team size and fairly independent cooling solutions, we split into sub-teams. Our team focused on **active cooling**.
 

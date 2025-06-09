@@ -9,3 +9,10 @@ The project went through several different stages, but management remained broad
 The leadership style throughout (despite the group having no set leader) aimed to be transformative and democratic - changes were discussed with the rest of the team befor implementation, and consultation with Majicom was conducted regularly to avoid confusion and potential for 
 
 Majicom implemented a slightly different laissez-faire leadership style encouraging creativity with minimal limits around the core concept of achieving active cooling for the water tank.
+
+**Task distribution**
+
+- System modelling framework - Jakub
+- First principle analysis - Jamie and Jakub
+- Experimental work - Jamie and Jakub
+- CAD modelling - Oscar

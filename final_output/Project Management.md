@@ -12,7 +12,12 @@ Majicom implemented a slightly different laissez-faire leadership style encourag
 
 **Task distribution**
 
+- Initial project idea generation - all
 - System modelling framework - Jakub
-- First principle analysis - Jamie and Jakub
-- Experimental work - Jamie and Jakub
-- CAD modelling - Oscar
+- First principle analysis - Jamie, Jakub
+- Experimental work - Jamie, Jakub
+- CAD modelling and validation - Oscar
+
+**Team management**
+
+During the early stages, the team emphasized open communication and mutual support. As the project progressed, management adapted to become more structured in response to increasing complexity, particularly in the specification and validation phases.

@@ -3,9 +3,7 @@ title: Sustainable Development Goals
 ---
 
 ## UN SDG's
-https://www.un.org/sustainabledevelopment/sustainable-development-goals/
-
-The UN's Sustainable Development Goals outline good practises for implementing new technologies in developing countries. Out of the 17 goals, the ones that we felt were relevant to our project were:
+The UN's Sustainable Development Goals (https://www.un.org/sustainabledevelopment/sustainable-development-goals/) outline good practises for implementing new technologies in developing countries. Out of the 17 goals, the ones that we felt were relevant to our project were:
 
 (3) Good Health and Well-Being: The more cooling that we could create, the more that users might be motivated to be hydrated, which has obvious health benefits. We did however have to consider that cooler isn't always better, through questionnaires we knew that a range of users had different favourite drinking temperatures.
 
@@ -16,8 +14,9 @@ The UN's Sustainable Development Goals outline good practises for implementing n
 (12) Responsible Consumption and Production: We had to bear in mind not being wasteful in our design. Energy-wise, we considered the amount of insulation needed to only lose a small amount of our cooling power to the environment, and the whole design revolves around being as efficient as possible. With the water, the idea of constantly running tap water around the tank to cool it was ruled out due to the large water waste that it would cause.
 
 (13) Climate Action: We endeavoured to make sure our cooling method was compatible with the amount of power provided by the solar panels and battery proposed by Majicom to power the kiosk. This would mean green energy, and also more predictable energy compared to taking from the mains. Furthermore, we have tried to create an inexpensive solution, meaning that Majicom can keep the cost of their water below bottled water, this reduces the amount of plastic waste created.
+
 ## UNICEF principles for Digital Development
 
-https://digitalprinciples.org
+These principles (https://digitalprinciples.org) outline good practise for introducing new digital technology into the developing world.
 
 Although our work was not digital, we needed to understand the interface between the kiosk and user. We learnt that kiosks similar to Majicoms' would normally have a vendor to dispense the water / good for the user. Majicom had only the screen, which meant we needed to consider the extra time taken to figure out the interface in rural areas of Africa compared to in the UK, which impacts queueing time and consequently dispensing rate.

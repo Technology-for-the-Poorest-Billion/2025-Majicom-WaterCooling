@@ -18,7 +18,7 @@ When it comes to water cooling methods, we identified two main approaches:
 
 With a large team size and fairly independent cooling solutions, we split into sub-teams. Our team focused on **active cooling**.
 
-## Tank Sizing and Insulation
+## 1) Tank Sizing and Insulation
 
 ![Tank Sizing Calcs](images/sizing-calcs.jpg)
 
@@ -37,7 +37,7 @@ Determine whether the main energy constraint is due to:
 
 If the tank is insulated, heat loss becomes relatively minor compared to the cooling power required during peak demand. Therefore, **focus should be on water throughput cooling**, not tank losses.
 
-## Whole System Modelling
+## 2) Whole System Modelling
 
 ![System Modelling Graphs](images/system-modelling.png)
 
@@ -53,7 +53,7 @@ If the tank is insulated, heat loss becomes relatively minor compared to the coo
 
 [Insert conclusions]
 
-## CFD (Computational Fluid Dynamics)
+## 3) CFD (Computational Fluid Dynamics)
 
 ![CFD Results](images/cfd-results.png)
 
@@ -69,7 +69,7 @@ If the tank is insulated, heat loss becomes relatively minor compared to the coo
 
 [Insert conclusions]
 
-## Tap Water Cooling
+## 4) Tap Water Cooling
 
 ![Pipe Length Graph](images/pipe-length-graph.png)
 
@@ -87,7 +87,7 @@ Investigate the feasibility of using cold **incoming tap water** as an auxiliary
 
 Tap water in Tanzania is generally cooler than the desired tank temp, offering potential for pre-cooling. However, small temperature differences (~5°C) mean **large and costly heat exchangers** would be needed. Simpler solutions (e.g., pipe coiling) were also found **too expensive** for meaningful cooling.
 
-## Testing Peltier Cell Cooling
+## 5) Testing Peltier Cell Cooling
 
 ![Peltier Experimental Setup](images/peltier-test.jpg)
 

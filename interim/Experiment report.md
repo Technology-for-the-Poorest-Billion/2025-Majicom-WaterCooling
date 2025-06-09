@@ -12,7 +12,8 @@ The experimetal setup is similar to what could be expected in the kiosk but scal
 
 # Performance predictions
 
-![Characteristics of the Peltier cell used in the experiment.](Experiment_analysis/TEC1-12715.pdf)
+<img src="Experiment_analysis/image.png" width="500">
+
 
 
 There are several parts of the system that can be modelled. Unofrtunately, most of them lack clear specifications and thorough data to base the predictions on. The basic model would aim to, based on the heat transfer properties and current in the cell, determine the temperature difference over the Peltier cell and hence its effectiveness. This analysis is possible to do, but difficult without knowing the exact properties opf the cold and hot sinks. 

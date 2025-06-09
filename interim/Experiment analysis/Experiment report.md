@@ -20,10 +20,10 @@ There are several parts of the system that can be modelled. Unofrtunately, most 
 The experiment conducted encountered several unexpected obstacles. 
 
 Firstly, we did not have access to a power supply strong enough to create as much cooling as we had anticipated.
-This meant that the temperature drop was on the order of 0.1 C which is the same as teh experimental error.
+This meant that the temperature drop was on the order of 0.1 C which is the same as the experimental error.
 This means that although this value is of the order of magnitude as predicted prior to the experiment,
 it is of no use in making predictions.
-This means that teh attempt to measure the Peletier modules effectiveness has failed.
+This means that the attempt to measure the Peletier modules effectiveness has failed.
 However, several conclusions can nonetheless be drawn:
 
 - Peltier cells require a lot of current and that is more than conventional power systems usually work with. Thuis suggests taht the electrical side of the setup will be harder to build and more costly

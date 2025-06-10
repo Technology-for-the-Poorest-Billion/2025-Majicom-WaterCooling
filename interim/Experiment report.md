@@ -16,7 +16,9 @@ The experimetal setup is similar to what could be expected in the kiosk but scal
 
 
 
-There are several parts of the system that can be modelled. Unofrtunately, most of them lack clear specifications and thorough data to base the predictions on. The basic model would aim to, based on the heat transfer properties and current in the cell, determine the temperature difference over the Peltier cell and hence its effectiveness. This analysis is possible to do, but difficult without knowing the exact properties opf the cold and hot sinks. 
+There are several parts of the system that can be modelled. Unfortunately, most of them lack clear specifications and thorough data to base the predictions on. The basic model would aim to, based on the heat transfer properties and current in the cell (using the characteristics in figure above), determine the temperature difference over the Peltier cell and hence its effectiveness. This analysis is possible to do, but difficult without knowing the exact properties of the cold and hot sinks. 
+
+Hence, we aimed to design teh experiment as an upper bound. The water heat exchanger was purchased as suitable for use in a high end desktop, likely above the price range and size possible in the kiosk. A very strong Peltier cell was specified to achieve a temperature drop measurable with our sensors. The final seetup would require a whole array of Peltier cells, but for simplicity we experimented with just one. 
 
 # Results
 
@@ -31,7 +33,7 @@ To get some more meaningful results, we had the idea to turn the setup into a co
 
 Despite the challenges, several conclusions can nonetheless be drawn:
 
-- Peltier cells require a lot of current and that is more than conventional power systems usually work with. Thuis suggests taht the electrical side of the setup will be harder to build and more costly
+- Peltier cells require a lot of current and that is more than conventional power systems usually work with. This suggests that the electrical side of the setup will be harder to build and more costly
 - Peltier cells require a large amount of cooling. It was noted that even at this low power, the cell heated up considerably which reduced the cooling efficiency. For such a setup to work a large fan and cooling system would be needed.
 - At the flow rates expected in the kiosk the rate of heat transfer was not high enough. This may be partially due to the low power available, but could be at least partially due to not enough heat transfer in the water cooled plate.
 

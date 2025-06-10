@@ -18,6 +18,11 @@ Majicom implemented a slightly different laissez-faire leadership style encourag
 - Experimental work - Jamie, Jakub
 - CAD modelling and validation - Oscar
 
+In more detail the tasks were distributed as following:
+- Jakub: System modelling including heat loss calculations, on demand heat transfer analysis, Peltier cell vs Refrigerant cycle investigation and Experiment design
+- Jamie: Mains heat exchanger analysis, heat loss estimation, Experimental data collection
+- Oscar: Heat loss calculations and modelling with CAD
+
 **Team management**
 
 The team strategy evolved throughout the project to meet the increasing demands of key deliverables, beginning with a strong collaborative effort in preparing the initial group presentation. This early stage focused on aligning everyone’s understanding of the project scope and brainstorming creative approaches. 

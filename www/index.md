@@ -68,7 +68,10 @@ Studies were conducted in Solidworks 2024 with appropriate mesh dependancy studi
 #### Static Study
 
 #### Convective Study
-www/Assets/24CConvective50%Humidity_1.png 
+
+![24CConvective50%Humidity_1](https://github.com/user-attachments/assets/8fffc51a-cf32-423b-ba84-36898f2cd21d)
+
+
 #### Humidity Study
 
 ### Conclusions

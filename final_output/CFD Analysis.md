@@ -61,6 +61,7 @@ The results for both static heat flow calculations and convective solutions are 
 One feature of Solidworks 2024 Fluid Simulation is the ability to vary humidity. The humidity in Tansania varies throughout the year, with averages at a minima in July at 58%, rising to a maximum of 75% in April. However, during the wet season atmospheric conditions can easily reach 100% humidity during short and intense periods of rainfall. Thus, a study into humidity at various levels (ranging from 50% to 100%) was conducted. 
 
 The results of this are seen below:
+
 ![Heat Loss vs  Humidity](https://github.com/user-attachments/assets/0e73ce00-0faf-4fbf-8aa7-165085ea7f65)
 
 It is evident that at standard conditions, there is a negligible change to the power lost to surroudings via convection.

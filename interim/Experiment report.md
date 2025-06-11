@@ -31,6 +31,8 @@ it is of no use in making predictions.
 
 To get some more meaningful results, we had the idea to turn the setup into a continuous circuit where the same mass of water was pumped in a loop, continuously cooling down and allowing us to get better temperature measurements. The setup is shown above. With 150g of water in the circuit, we should have been expecting roughly 0.1 K / second in temperature drop, however we saw close to 0.1 K / minute in reality.
 
+<img src="Experiment_analysis/image.png" width="500">
+
 Despite the challenges, several conclusions can nonetheless be drawn:
 
 - Peltier cells require a lot of current and that is more than conventional power systems usually work with. This suggests that the electrical side of the setup will be harder to build and more costly

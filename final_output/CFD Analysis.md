@@ -8,7 +8,7 @@ To validate the results of the numerical python calculations for heat flow loss,
 * Simulations of convection flow for a variety of peltier or traditional coolant pipe methods.
 * Humidity variation analysis of convective heat loss based on Tansanian weather conditions. 
 
-## Static Analysis
+## Static Results
 ### Static Mesh Dependancy Study
 The first deliverable for this analysis method was a mesh dependancy  study, to determine the optimum mesh size to use as a compromise between accuracy and time spent on each mesh.
 
@@ -30,7 +30,7 @@ The results of the static static heat flow analysis are seen below:
 | --- | --- | --- | --- |
 | Static  | 16.8W  | 34-169W | 11.2W |
 
-## Convective Analysis
+## Convective Results
 
 ### Convective Mesh Dependancy Study
 
@@ -52,6 +52,7 @@ Results for this study can be seen below, and a visualisation of the convection 
 | --- | --- | --- | --- |
 | Convective | 17.4W  | 35-174W | 11.6W |
 
+## Analysis
 
 **Humidity Convective Analysis**
 

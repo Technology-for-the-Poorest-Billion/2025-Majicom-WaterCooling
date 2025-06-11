@@ -16,6 +16,7 @@ The results of the mesh dependancy study are seen below:
 
 ![RMS and Avg power loss against element size](https://github.com/user-attachments/assets/09491954-6c67-4027-b4e2-c160ffdb6ea8)
 
+From this study, a mesh size of 130,000 elements was selected as the best compromise between simulation run-time and accuracy of results - reaching values within 2% of higher mesh sizes.
 
 ### Static Solidworks 2024 Analysis
 
@@ -26,7 +27,7 @@ The results of the static static heat flow analysis are seen below.
   ![WaterTankwWater-Thermal Flow Test-Image-1](https://github.com/user-attachments/assets/e8e47fb8-39bc-470c-a658-6d47428a5f3f)
 
 | Analysis Type | Power demand | Peltier Power | Refrigerant Cycle Power |
-| ------------- | ------------- | --- | --- |
+| --- | --- | --- | --- |
 | Static  | 8.7W  | 18-80W | 5.8W |
 
 Solidworks 2024 has issues combining convection of fluids with heat transfer of materials additionally. Currently primary objective here is try and import the heat data from the static study and then run a convection simulation based off of that data.

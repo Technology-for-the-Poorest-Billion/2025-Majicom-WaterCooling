@@ -1,0 +1,9 @@
+2025-Jun-11 20:14:02
+Computer name:	OV-F15
+Number of cores used in calculation:	16
+Configuration name:	Default
+Project name:	Project(1)
+
+Warnings on last iteration: 
+1. Phase transition in the Real gas may occur :
+	 

@@ -1,0 +1,68 @@
+{
+    "version": 0,
+    "model_name": "WaterTankwWater.SLDASM",
+    "project_name": "Project(1)",
+    "config_name": "Default",
+    "project_path": "C:\\Users\\temer\\OneDrive\\Documents\\Cambridge\\IIA\\GM2\\Kiosk Model\\2\\2.xmlconfig",
+    "finished": true,
+    "mesh": {
+        "cells_total": 42528,
+        "cells_fluid": 36834,
+        "cells_solid": 5694,
+        "cells_fluid_containing_solid": 4222
+    },
+    "telemetry": {
+        "prepare_geometry_finished": "20:13:13+0100",
+        "prepare_geometry_total_time": 1,
+        "cpu_time_solver_total": 51,
+        "iteration": 123,
+        "travel": 1.8483838107080002,
+        "phys_time": 0.0,
+        "time_step": 0.0,
+        "last_iteration_finished": "20:14:01+0100",
+        "cpu_time_per_last_iter": 1,
+        "cpu_time_left": 5,
+        "iterations_per_travel": 67
+    },
+    "goals": [
+        {
+            "goal": {
+                "name": "SG Average Heat Flux 1",
+                "unit": "heat flow",
+                "value": -9.496850394762058,
+                "progress": 100.0,
+                "criteria": 0.1367944932793731,
+                "delta": 0.1196106379580204,
+                "use_in_convergence": true
+            }
+        }
+    ],
+    "settings": {
+        "default_fluids": [
+            "Water",
+            "Air"
+        ],
+        "analysis_type": "external",
+        "heat_conduction_in_solids": true,
+        "radiation": true,
+        "time_dependent": false,
+        "gravity": true,
+        "flow_type": "laminar and turbulent",
+        "cavitation": false,
+        "high_mach_number": true,
+        "free_surface": false,
+        "structural": false,
+        "electromagnetism": false
+    },
+    "system_info": {
+        "product_name": "Flow Simulation 2024  x64 / 6545 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
+        "cad_version": "SOLIDWORKS 2024 SP5.0",
+        "computer_name": "OV-F15",
+        "user_name": "temer",
+        "os": "Windows 11 (or higher) (Version 10.0.22631)",
+        "cpu": "12th Gen Intel(R) Core(TM) i7-12650H",
+        "number_of_cores": 16,
+        "memory_avail": 2625,
+        "memory_total": 16005
+    }
+}

@@ -24,7 +24,7 @@ The static heat flow simulation was able ot output heat power values for the tan
 
 The results of the static static heat flow analysis are seen below.
 
-  ![WaterTankwWater-Thermal Flow Test-Image-1](https://github.com/user-attachments/assets/e8e47fb8-39bc-470c-a658-6d47428a5f3f)
+![image](https://github.com/user-attachments/assets/9437ebff-5b66-46b2-a20e-98de5b394b3b)
 
 | Analysis Type | Power demand | Peltier Power | Refrigerant Cycle Power |
 | --- | --- | --- | --- |

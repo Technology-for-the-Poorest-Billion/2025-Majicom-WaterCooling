@@ -9,13 +9,16 @@ To validate the results of the numerical python calculations for heat flow loss,
 
 ## Static Mesh Dependancy Study
 A mesh dependancy / convergence study was conducted on the model to determine the optimal mesh size to use in modelling, as a compromise between accuracy and time spent on each mesh.
-  ![WaterTankwWater-Thermal Flow Test-Image-1](https://github.com/user-attachments/assets/e8e47fb8-39bc-470c-a658-6d47428a5f3f)
+
 
 Static Solidworks 2024 Analysis
 
 The static heat flow simulation was able ot output heat power values for the tank when held at a temperature of 24C.
 
-The results of the static mesh dependancy study are seen below
+The results of the static mesh dependancy study are seen below.
+
+  ![WaterTankwWater-Thermal Flow Test-Image-1](https://github.com/user-attachments/assets/e8e47fb8-39bc-470c-a658-6d47428a5f3f)
+
 | Analysis Type | Power demand | Peltier Power | Refridgerant Cycle Power |
 | ------------- | ------------- | --- | --- |
 | Static  | 8.7W  | 18-80W | 5.8W |

@@ -41,6 +41,20 @@ If the tank is insulated, heat loss becomes relatively minor compared to the coo
 
 ![System Modelling Graphs](images/system-modelling.png)
 
+### Objective
+
+[Insert objective]
+
+### Work Done
+
+[Insert work done]
+
+### Conclusions
+
+[Insert conclusions]
+
+## 3) CFD (Computational Fluid Dynamics)
+
 ### Deliverables
 
 * A validation and backup of numerical heat loss results to surroundings, for a tank held at 24C with outside surroundings at 29C.
@@ -61,21 +75,6 @@ Studies were conducted in Solidworks 2024 with appropriate mesh dependancy studi
 
 It was found that the static and convective studies matches each other to within 2%, and further reinforced initial python numerical calculations for heat losses to the environment, giving us a context of the power supply that would be needed for this project. The humidity was not found to affect results outside of edge-case scenarios, which will be passed on to Majicom for consideration in their electrical systems.
 
-
-
-## 3) CFD (Computational Fluid Dynamics)
-
-### Objective
-
-[Insert objective]
-
-### Work Done
-
-[Insert work done]
-
-### Conclusions
-
-[Insert conclusions]
 
 ## 4) Tap Water Cooling
 

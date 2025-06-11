@@ -67,12 +67,22 @@ Studies were conducted in Solidworks 2024 with appropriate mesh dependancy studi
 
 #### Static Study
 
+![HeatStatic24](https://github.com/user-attachments/assets/dad25432-4ea5-4c58-9f08-43a667aca4d5)
+
+A static heat flow analysis was conducted in Solidworks 2024 to determine heat loss to surroundings from internal water tank analysis.
+
 #### Convective Study
 
 ![24CConvective50%Humidity_1](https://github.com/user-attachments/assets/8fffc51a-cf32-423b-ba84-36898f2cd21d)
 
+A convective heat flow analysis was conducted in Solidworks 2024 Fluid Simulation to determine heat loss to surroundings by investigating external air convection within the Kiosk.
 
 #### Humidity Study
+
+![Heat Loss vs  Humidity](https://github.com/user-attachments/assets/01a4badf-4cbd-4b50-87ec-306a9c4584c9)
+
+Heat loss was measured for the convective study against variations in humidity.
+
 
 ### Conclusions
 

@@ -1,5 +1,5 @@
 # CFD Analysis
->Oscar Vitou
+>Oscar Vitou - Final Report on own contribution
 
 To validate the results of the numerical python calculations for heat flow loss, a solidworks model was set up to recreate real world scenarios with possibly greater accuracy.
 
@@ -72,3 +72,5 @@ However, for short intense bursts of rainfall where humidity can be higher than 
 ## Final Conclusions
 
 The CFD simulations confirmed and validated the numerical results, agreeing internally on heat losses of the tank to the surroundings. Peltier coolers were found to incur significantly higher power requirements than standard refrigerant cycle cooling by up to 150%. Peltier coolers would also incur siginificant extra costs in a heat extraction system that would be required to remove hot air from the hot side of the thermo-electric cooler were it to be implemented - further providing reasoning against usage. Humidity in standard conditions was found to have a neglibigle effect on heat losses, except in specific high humidity circumstances where the risk of power-surging may be present. This should be accounted for in Majicom's electrical power system moving forward.
+
+Additionally, a priority throughout this project that was somewhat out of scope for any innovation but always a consideration was sanitation. A specific and prominent example is Legionella and similar diseases. The conditions for Legionella, a potentially lethal water borne disease can be found in a water tank with a temperature range of 25C-60C. It is imperative that going forward, Majicom maintains sanitation in the tank. The presence of any intrusive cooling system creates significant risk of extra contamination. As the tank itself is only aimed to be cooled to 24C (to minimise energy costs and based off of public demand feedback), the margin for error is slim. A recommendation to combat this here would be to add an extra UV scrubber on the inflow to the storage tank itself - especially if a smaller cooling tank is taken forward and the large storage tank is left at roomm temperature.  

@@ -73,7 +73,7 @@ Studies were conducted in Solidworks 2024 with appropriate mesh dependancy studi
 
 ### Conclusions
 
-It was found that the static and convective studies matches each other to within 2%, and further reinforced initial python numerical calculations for heat losses to the environment, giving us a context of the power supply that would be needed for this project. The humidity was not found to affect results outside of edge-case scenarios, which will be passed on to Majicom for consideration in their electrical systems.
+It was found that the static and convective studies matched each other to within 2%, and further reinforced initial python numerical calculations for heat losses to the environment, giving us a context of the power supply that would be needed for this project. The humidity was not found to affect results outside of edge-case scenarios, which will be passed on to Majicom for consideration in their electrical systems.
 
 
 ## 4) Tap Water Cooling

@@ -18,7 +18,7 @@ The results of the mesh dependancy study are seen below:
 
 From this study, a mesh size of 130,000 elements was selected as the best compromise between simulation run-time and accuracy of results - reaching values within 2% of higher mesh sizes.
 
-### Static Solidworks 2024 Analysis
+### Static Solidworks 2024 Results
 
 The static heat flow simulation was able ot output heat power values for the tank when held at a temperature of 24C.
 
@@ -40,7 +40,7 @@ The results of the mesh dependancy study can be received below:
 
 It was found that the maximum mesh element size of approximately 40,000 cells was able to produce the most accurate results in a reasonable time-frame - therefore this rough cell count was carried forward for all further convective studies.
 
-### Convective Solidworks 2024 Analysis
+### Convective Solidworks 2024 Results
 
 A convective analysis was conducted using Solidworks Fluid Simulation analysis, with boundary conditions setting the 24C condition on the interior wall, allowing for internal rough heat transition to be visualised in addition to external heat flow transfer in the surrounding air.
 
@@ -53,6 +53,8 @@ Results for this study can be seen below, and a visualisation of the convection 
 | Convective | 17.4W  | 35-174W | 11.6W |
 
 ## Analysis
+
+The results for both static heat flow calculations and convective solutions are to within <2% of each other. These results also further support the results found in the numerical analysis, further supporting their validity and accuracy.
 
 **Humidity Convective Analysis**
 

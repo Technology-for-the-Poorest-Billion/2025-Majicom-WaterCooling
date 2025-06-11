@@ -11,11 +11,17 @@ To validate the results of the numerical python calculations for heat flow loss,
 ## Static Analysis
 ### Static Mesh Dependancy Study
 The first deliverable for this analysis method was a mesh dependancy  study, to determine the optimum mesh size to use as a compromise between accuracy and time spent on each mesh.
+
+The results of the mesh dependancy study are seen below:
+
+![RMS and Avg power loss against element size](https://github.com/user-attachments/assets/09491954-6c67-4027-b4e2-c160ffdb6ea8)
+
+
 ### Static Solidworks 2024 Analysis
 
 The static heat flow simulation was able ot output heat power values for the tank when held at a temperature of 24C.
 
-The results of the static mesh dependancy study are seen below.
+The results of the static static heat flow analysis are seen below.
 
   ![WaterTankwWater-Thermal Flow Test-Image-1](https://github.com/user-attachments/assets/e8e47fb8-39bc-470c-a658-6d47428a5f3f)
 

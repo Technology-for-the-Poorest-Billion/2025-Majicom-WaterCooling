@@ -7,11 +7,10 @@ To validate the results of the numerical python calculations for heat flow loss,
 * A validation and backup of numerical heat loss results to surroundings, for a tank held at 24C with outside surroundings at 29C.
 * Simulations of convection flow for a variety of peltier or traditional coolant pipe methods
 
-## Static Mesh Dependancy Study
-A mesh dependancy / convergence study was conducted on the model to determine the optimal mesh size to use in modelling, as a compromise between accuracy and time spent on each mesh.
-
-
-Static Solidworks 2024 Analysis
+## Static Analysis
+### Static Mesh Dependancy Study
+The first deliverable for this analysis method was a mesh dependancy  study, to determine the optimum mesh size to use as a compromise between accuracy and time spent on each mesh.
+### Static Solidworks 2024 Analysis
 
 The static heat flow simulation was able ot output heat power values for the tank when held at a temperature of 24C.
 

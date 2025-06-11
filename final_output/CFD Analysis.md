@@ -22,7 +22,7 @@ From this study, a mesh size of 130,000 elements was selected as the best compro
 
 The static heat flow simulation was able ot output heat power values for the tank when held at a temperature of 24C.
 
-The results of the static static heat flow analysis are seen below.
+The results of the static static heat flow analysis are seen below:
 
 ![image](https://github.com/user-attachments/assets/9437ebff-5b66-46b2-a20e-98de5b394b3b)
 
@@ -30,13 +30,22 @@ The results of the static static heat flow analysis are seen below.
 | --- | --- | --- | --- |
 | Static  | 8.7W  | 18-80W | 5.8W |
 
-Solidworks 2024 has issues combining convection of fluids with heat transfer of materials additionally. Currently primary objective here is try and import the heat data from the static study and then run a convection simulation based off of that data.
+### Convective Mesh Dependancy Study
 
-**Convective Solidworks 2024 Analysis**
+A mesh dependancy study was conducted using the Solidworks 2024 Fluid Simulation add-on, allowing for an optimum compromise between simulation run-time and computational accuracuy to be selected.
+The results of the mesh dependancy study can be received below:
+![Power Loss against Element Size](https://github.com/user-attachments/assets/c37bd8de-58bb-4a9a-b8d6-1f4b5138073a)
 
-However, the overall steady state heat position that the tank will be aiming to achieve (regardless of gravity) will be that predicted in the static simulation, so should this not work data can still be gathered (though it should be noted that the data may be slightly inaccurate (unknown if over or under-esitmate)
+
+### Convective Solidworks 2024 Analysis
+
+A convective analysis was conducted using Solidworks Fluid Simulation analysis, with boundary conditions setting the 24C condition on the interior wall, allowing for internal rough heat transition to be visualised in addition to external heat flow transfer in the surrounding air.
+
+Results for this 
 
 ![PeltierTop24Cooling](https://github.com/user-attachments/assets/ba0c682e-e84a-497d-86a9-a85c0aa002a2)
+
+
 
 **Humidity Convective Analysis**
 

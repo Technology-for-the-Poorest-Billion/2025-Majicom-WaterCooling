@@ -65,8 +65,6 @@ It was found that the static and convective studies matches each other to within
 
 ## 3) CFD (Computational Fluid Dynamics)
 
-![CFD Results](images/cfd-results.png)
-
 ### Objective
 
 [Insert objective]

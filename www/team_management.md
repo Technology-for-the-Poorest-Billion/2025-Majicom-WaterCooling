@@ -37,4 +37,4 @@ In preparation for the final presentation and group report, further collaboratio
 
 The individual report phase saw a transition to independent work, though team members continued informal peer support, discussing findings and approaches. This blended strategy of shared responsibility and individual accountability helped maintain a high standard throughout the project.
 
-Overall team interaction was 
+Overall team interaction was positive throughout. A determined mindset prevailed, despite occasional challenges faced by uncertainty over the direction the initial project direction, and technical shifts in certain deliverable's methods requiring reallocation of resources and personnel.

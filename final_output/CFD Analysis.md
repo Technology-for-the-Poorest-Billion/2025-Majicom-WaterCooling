@@ -29,6 +29,8 @@ The results of the static static heat flow analysis are seen below:
 | --- | --- | --- | --- |
 | Static  | 8.7W  | 18-80W | 5.8W |
 
+## Convective Analysis
+
 ### Convective Mesh Dependancy Study
 
 A mesh dependancy study was conducted using the Solidworks 2024 Fluid Simulation add-on, allowing for an optimum compromise between simulation run-time and computational accuracuy to be selected.

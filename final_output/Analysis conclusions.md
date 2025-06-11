@@ -34,7 +34,7 @@ For these reasons, unless passive cooling is not possible, cooling a smaller tan
 
 ### Cooling with mains water
 
-This option would consist of a heat exchanger between mains water and dispensed water in order to leverage the coldness of the water supply. However, because of the high complexity and cost of the heat exchanger as well as the limited cooling power, this solution is unlikely to work and is bad value-for-money.
+This still holds potential, as research suggests that the mains water would be up to 10 degrees cooler than our cold tank temperature, depending on time of year, degree of cooling achieved in the tank, and pipe insulation, and the volume of water available is limitless and cheap. The problem however is that the low temperature difference means that large and expensive heat exchangers are required. The other issue is that at some points the mains water will be similar in temperature to the tank, or possibly warmer, meaning that some sort of temperature detection and diversion system would need to be included into the solution, adding additional complexity, failure points and energy sinks. Overall, this avenue does not hold too much potential if looking for a budget solution, but I do think that in future additions, some mains cooling elements could be a low power way to get considerable cooling, subject to heat exchangers available.
 
 
 ### Cooling a smaller tank

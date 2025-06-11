@@ -54,7 +54,7 @@ Results for this study can be seen below, and a visualisation of the convection 
 
 ## Analysis
 
-The results for both static heat flow calculations and convective solutions are to within <2% of each other. These results also further support the results found in the numerical analysis, further supporting their validity and accuracy.
+The results for both static heat flow calculations and convective solutions are to within <2% of each other. These results also further support the results found in the numerical analysis, further supporting their validity and accuracy. It is worth noting that in the convective analysis, a static image of the heat conduction within the tank is observed - this is a static condition and a limitation of Solidworks 2024 Fluid Simulation: only one of external or internal analyses can be conducted at any one time. However, it was found through internal experimentation that the convective effects outside of the tank were far more significant than internal flow characteristics due to temperature variation.
 
 **Humidity Convective Analysis**
 

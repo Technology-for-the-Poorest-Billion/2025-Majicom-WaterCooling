@@ -28,7 +28,7 @@ The results of the static static heat flow analysis are seen below:
 
 | Analysis Type | Power demand | Peltier Power | Refrigerant Cycle Power |
 | --- | --- | --- | --- |
-| Static  | 8.7W  | 18-80W | 5.8W |
+| Static  | 16.8W  | 34-169W | 11.2W |
 
 ## Convective Analysis
 
@@ -44,10 +44,13 @@ It was found that the maximum mesh element size of approximately 40,000 cells wa
 
 A convective analysis was conducted using Solidworks Fluid Simulation analysis, with boundary conditions setting the 24C condition on the interior wall, allowing for internal rough heat transition to be visualised in addition to external heat flow transfer in the surrounding air.
 
-Results for this 
+Results for this study can be seen below, and a visualisation of the convection flow in the air surrounding the tank is seen below.
 
-![PeltierTop24Cooling](https://github.com/user-attachments/assets/ba0c682e-e84a-497d-86a9-a85c0aa002a2)
+![24CConvective50%Humidity_1](https://github.com/user-attachments/assets/f1e0c29b-bbba-49d0-869f-e46bdd291041)
 
+| Analysis Type | Power demand | Peltier Power | Refrigerant Cycle Power |
+| --- | --- | --- | --- |
+| Convective | 17.4W  | 35-174W | 11.6W |
 
 
 **Humidity Convective Analysis**

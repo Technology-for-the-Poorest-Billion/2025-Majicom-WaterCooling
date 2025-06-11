@@ -41,17 +41,27 @@ If the tank is insulated, heat loss becomes relatively minor compared to the coo
 
 ![System Modelling Graphs](images/system-modelling.png)
 
-### Objective
+### Deliverables
 
-[Insert objective]
+* A validation and backup of numerical heat loss results to surroundings, for a tank held at 24C with outside surroundings at 29C.
+* Simulations of convection flow for a variety of peltier or traditional coolant pipe methods.
+* Humidity variation analysis of convective heat loss based on Tansanian weather conditions. 
 
 ### Work Done
 
-[Insert work done]
+Studies were conducted in Solidworks 2024 with appropriate mesh dependancy studies to ensure accurate and timely results.
+
+#### Static Study
+
+#### Convective Study
+
+#### Humidity Study
 
 ### Conclusions
 
-[Insert conclusions]
+It was found that the static and convective studies matches each other to within 2%, and further reinforced initial python numerical calculations for heat losses to the environment, giving us a context of the power supply that would be needed for this project. The humidity was not found to affect results outside of edge-case scenarios, which will be passed on to Majicom for consideration in their electrical systems.
+
+
 
 ## 3) CFD (Computational Fluid Dynamics)
 

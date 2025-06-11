@@ -1,5 +1,5 @@
 # CFD Analysis
-Oscar Vitou
+>>Oscar Vitou
 
 To validate the results of the numerical python calculations for heat flow loss, a solidworks model was set up to recreate real world scenarios with possibly greater accuracy.
 

@@ -15,7 +15,10 @@ Static Solidworks 2024 Analysis
 
 The static heat flow simulation was able ot output heat power values for the tank when held at a temperature of 24C.
 
-The results of the static mesh dependancy study were 
+The results of the static mesh dependancy study are seen below
+| Analysis Type | Power demand | Peltier Power | Refridgerant Cycle Power |
+| ------------- | ------------- | --- | --- |
+| Static  | 8.7W  | 18-80W | 5.8W |
 
 Solidworks 2024 has issues combining convection of fluids with heat transfer of materials additionally. Currently primary objective here is try and import the heat data from the static study and then run a convection simulation based off of that data.
 

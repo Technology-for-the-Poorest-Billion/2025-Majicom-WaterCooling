@@ -1,11 +1,12 @@
 # CFD Analysis
 Oscar Vitou
 
-To validate the results of the numerical python calculations for heat flow loss, a solidworks model was set up to recreate real world scenarios.
+To validate the results of the numerical python calculations for heat flow loss, a solidworks model was set up to recreate real world scenarios with possibly greater accuracy.
 
 ## Deliverables:
 * A validation and backup of numerical heat loss results to surroundings, for a tank held at 24C with outside surroundings at 29C.
-* Simulations of convection flow for a variety of peltier or traditional coolant pipe methods
+* Simulations of convection flow for a variety of peltier or traditional coolant pipe methods.
+* 
 
 ## Static Analysis
 ### Static Mesh Dependancy Study

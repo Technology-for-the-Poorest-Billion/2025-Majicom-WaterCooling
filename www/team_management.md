@@ -23,7 +23,7 @@ Majicom implemented a slightly different laissez-faire leadership style encourag
 In more detail the tasks were distributed as following:
 - Jakub: System modelling including heat loss calculations, on demand heat transfer analysis, Peltier cell vs Refrigerant cycle investigation and Experiment design
 - Jamie: Mains heat exchanger analysis, heat loss estimation, Experimental data collection
-- Oscar: Heat loss calculations and modelling with CAD
+- Oscar: Heat loss calculations and modelling with CAD, and additional humidity variation analysis.
 
 **Team management**
 
@@ -33,6 +33,8 @@ For the initial project proposal, slides covering technical content,  and presen
 
 For the interim presentation, the team refined its strategy. With clearer task allocations emerging, members focused more on their technical areas while still contributing to joint outputs. Regular meetings ensured continuity and cohesion, with feedback loops to integrate individual work into a unified message. This period marked a shift towards more autonomous work, balanced by team review and collective editing.
 
-In preparation for the final presentation and group report, collaboration intensified. Each member contributed to their specialised section, while joint sessions were held to polish and align the final outputs. Visuals, data interpretation, and conclusions were refined collaboratively to ensure clarity and coherence.
+In preparation for the final presentation and group report, further collaboration was required. Each member contributed to their specialised section, while joint sessions were held to polish and align the final outputs. Visuals, data interpretation, and conclusions were refined to ensure clarity and coherence in the questions we were answering, and the results presented.
 
 The individual report phase saw a transition to independent work, though team members continued informal peer support, discussing findings and approaches. This blended strategy of shared responsibility and individual accountability helped maintain a high standard throughout the project.
+
+Overall team interaction was 

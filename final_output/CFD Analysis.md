@@ -6,7 +6,7 @@ To validate the results of the numerical python calculations for heat flow loss,
 ## Deliverables:
 * A validation and backup of numerical heat loss results to surroundings, for a tank held at 24C with outside surroundings at 29C.
 * Simulations of convection flow for a variety of peltier or traditional coolant pipe methods.
-* 
+* Humidity variation analysis of convective heat loss based on Tansanian weather conditions. 
 
 ## Static Analysis
 ### Static Mesh Dependancy Study
@@ -19,7 +19,7 @@ The results of the static mesh dependancy study are seen below.
 
   ![WaterTankwWater-Thermal Flow Test-Image-1](https://github.com/user-attachments/assets/e8e47fb8-39bc-470c-a658-6d47428a5f3f)
 
-| Analysis Type | Power demand | Peltier Power | Refridgerant Cycle Power |
+| Analysis Type | Power demand | Peltier Power | Refrigerant Cycle Power |
 | ------------- | ------------- | --- | --- |
 | Static  | 8.7W  | 18-80W | 5.8W |
 

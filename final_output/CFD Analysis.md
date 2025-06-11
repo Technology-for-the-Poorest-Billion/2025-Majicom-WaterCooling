@@ -69,6 +69,6 @@ It is evident that at standard conditions, there is a negligible change to the p
 However, for short intense bursts of rainfall where humidity can be higher than the averages, power requirements can quadruple. This is important feedback to be given to Majicom, and must be accounted for in the power supply to avoid any potential power-surge caused by this to disrupt standard electrical operation.
 
 
-**Final Conclusions**
+## Final Conclusions
 
-
+The CFD simulations confirmed and validated the numerical results, agreeing internally on heat losses of the tank to the surroundings. Peltier coolers were found to incur significantly higher power requirements than standard refrigerant cycle cooling by up to 150%. Peltier coolers would also incur siginificant extra costs in a heat extraction system that would be required to remove hot air from the hot side of the thermo-electric cooler were it to be implemented - further providing reasoning against usage. Humidity in standard conditions was found to have a neglibigle effect on heat losses, except in specific high humidity circumstances where the risk of power-surging may be present. This should be accounted for in Majicom's electrical power system moving forward.

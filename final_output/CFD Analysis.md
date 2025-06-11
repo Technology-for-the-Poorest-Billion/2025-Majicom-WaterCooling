@@ -15,6 +15,7 @@ The first deliverable for this analysis method was a mesh dependancy  study, to 
 The results of the mesh dependancy study are seen below:
 
 ![RMS and Avg power loss against element size](https://github.com/user-attachments/assets/09491954-6c67-4027-b4e2-c160ffdb6ea8)
+
 From this study, a mesh size of 130,000 elements was selected as the best compromise between simulation run-time and accuracy of results - reaching values within 2% of higher mesh sizes.
 
 ### Static Solidworks 2024 Analysis
@@ -36,6 +37,7 @@ The results of the static static heat flow analysis are seen below:
 A mesh dependancy study was conducted using the Solidworks 2024 Fluid Simulation add-on, allowing for an optimum compromise between simulation run-time and computational accuracuy to be selected.
 The results of the mesh dependancy study can be received below:
 ![Power Loss against Element Size](https://github.com/user-attachments/assets/c37bd8de-58bb-4a9a-b8d6-1f4b5138073a)
+
 It was found that the maximum mesh element size of approximately 40,000 cells was able to produce the most accurate results in a reasonable time-frame - therefore this rough cell count was carried forward for all further convective studies.
 
 ### Convective Solidworks 2024 Analysis

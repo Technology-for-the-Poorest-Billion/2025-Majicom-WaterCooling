@@ -92,7 +92,7 @@ It was found that the static and convective studies matched each other to within
 
 ## 4) Tap Water Cooling
 
-![Pipe Length Graph](www/assets/unnamed.png)
+![Pipe Length Graph](Assets/unnamed.png)
 
 ### Objective
 
@@ -110,7 +110,7 @@ Tap water in Tanzania is generally cooler than the desired tank temp, offering p
 
 ## 5) Testing Peltier Cell Cooling
 
-![Peltier Experimental Setup](www/assets/IMG_7864.jpeg)
+![Peltier Experimental Setup](Assets/IMG_7864.jpeg)
 
 ### Objective
 
@@ -125,7 +125,7 @@ Can water be cooled **on-demand** during dispensing using Peltier cells?
 
 **Peltier cells were too inefficient** to cool water at required rates. To be viable, they would need **additional heat exchangers and high-power fans**, making them too expensive and complex for this application.
 
-![Peltier Results(www/assets/temp_time.png)
+![Peltier Results](Assets/Water temperature vs. time since cooling start (s), 22W.png)
 
 ## Final Conclusions
 

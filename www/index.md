@@ -7,7 +7,7 @@ This story starts with **Majicom**, a company that provides purified drinking wa
 
 Chilled water has been shown—through user surveys—to be a desirable feature, and that’s where we come in. Our challenge: **advise Majicom on how to cool the water by 5–10°C from ambient**, while still meeting constraints on power, space, and sanitation.
 
-![Majicom Kiosk](images/kiosk.jpg)
+![Kiosk](https://github.com/user-attachments/assets/cdfa74d1-06f9-4b66-a505-da1d5456c584)
 
 ## Active and Passive Cooling
 

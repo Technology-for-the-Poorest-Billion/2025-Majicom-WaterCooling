@@ -20,7 +20,7 @@ With a large team size and fairly independent cooling solutions, we split into s
 
 ## 1) Tank Sizing and Insulation
 
-![Tank Sizing Calcs](www/assets/insulation.png)
+![Tank Sizing Calcs](Assets/insulation.png)
 
 ### Objective
 
@@ -42,7 +42,7 @@ If the tank is insulated, heat loss becomes relatively minor compared to the coo
 
 ### Objective
 
-Compare Peltier cells and REfrigereant cycle systems for water cooling.
+Compare Peltier cells and Refrigereant cycle systems for water cooling.
 
 ### Work Done
 

@@ -6,7 +6,7 @@ We looked at different cooling options and ways ot compare them to evaluate the 
 
 Below is an explanation of what is contained in this repository:
 
-- '1. Final_output' contains documentation of the project output, final modelling software and design recommendations
+- 'final_output' contains documentation of the project output, final modelling software and design recommendations
 - 'interim' contains detailed analytical and experimental analysis as well as our interim conclusions
 - 'proposal' contains our intial proposal as well as preliminary analysis
 - 'www' contains the markdown documents creating project website

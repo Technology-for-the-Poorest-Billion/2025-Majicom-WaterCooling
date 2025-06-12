@@ -39,19 +39,20 @@ If the tank is insulated, heat loss becomes relatively minor compared to the coo
 
 ## 2) Whole System Modelling
 
-![System Modelling Graphs](images/system-modelling.png)
 
 ### Objective
 
-[Insert objective]
+Compare Peltier cells and REfrigereant cycle systems for water cooling.
 
 ### Work Done
 
-[Insert work done]
+- Thermodynamic analysis and calculations of power consumption.
+- Estimate of heat transfer rate limitations stemming from simple modelling
+- Investigation of feasibility and cost of the different systems
 
 ### Conclusions
 
-[Insert conclusions]
+It was determined that Peltier cells are not suitable for this use case. Due to their superior efficiency and lower power consumption, refrigerant cycles are recommended.
 
 ## 3) CFD (Computational Fluid Dynamics)
 

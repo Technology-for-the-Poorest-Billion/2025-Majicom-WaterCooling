@@ -20,7 +20,7 @@ With a large team size and fairly independent cooling solutions, we split into s
 
 ## 1) Tank Sizing and Insulation
 
-![Tank Sizing Calcs](assets/insulation.png)
+![Tank Sizing Calcs](www/assets/insulation.png)
 
 ### Objective
 
@@ -92,7 +92,7 @@ It was found that the static and convective studies matched each other to within
 
 ## 4) Tap Water Cooling
 
-![Pipe Length Graph](assets/unnamed.png)
+![Pipe Length Graph](www/assets/unnamed.png)
 
 ### Objective
 
@@ -110,7 +110,7 @@ Tap water in Tanzania is generally cooler than the desired tank temp, offering p
 
 ## 5) Testing Peltier Cell Cooling
 
-![Peltier Experimental Setup](assets/IMG_7864.jpeg)
+![Peltier Experimental Setup](www/assets/IMG_7864.jpeg)
 
 ### Objective
 
@@ -125,7 +125,8 @@ Can water be cooled **on-demand** during dispensing using Peltier cells?
 
 **Peltier cells were too inefficient** to cool water at required rates. To be viable, they would need **additional heat exchangers and high-power fans**, making them too expensive and complex for this application.
 
-![Peltier Results(assets/Water temperature vs. time since cooling start (s), 22W.png)
+![Peltier Results(www/assets/temp_time.png)
+
 ## Final Conclusions
 
 ### Our Recommendation to Majicom
